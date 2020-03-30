@@ -5,4 +5,4 @@ In this competition, my goal is to correctly identify digits from a dataset of t
 # Complie
 python3 digit-recognizer-by-keras.py
 # Result
-open sample_submission.csv
+sample_submission.csv
